@@ -11,6 +11,7 @@ public class App {
             System.exit(0);
         }
         System.out.println(sha256hex(args[0]));
+		System.out.println("this is github practise");
 
     }
 
