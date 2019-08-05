@@ -6,6 +6,7 @@ public class MessageBuilder {
 
         StringBuilder result = new StringBuilder();
         System.out.println("this is second commit");
+
         if (name == null || name.trim().length() == 0) {
 
             result.append("Please provide a name!");
