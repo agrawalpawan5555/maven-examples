@@ -8,7 +8,6 @@ public class CalculatorService {
         if (number >= 0) {
             result = true;
         }
-		System.out.println("result is "+result);
         return result;
 
     }
